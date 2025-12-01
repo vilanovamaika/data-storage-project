@@ -1,0 +1,3 @@
+-- QUERIES SCRIPT
+-- NAME : Maika Vilanova Almagia
+-- GROUP NUMBER : 56
